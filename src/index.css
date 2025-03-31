@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+<<<<<<< HEAD
 body {
     background-color: #e6e6ff;
     width: 100vw;
@@ -23,3 +24,11 @@ body {
   
   
   
+=======
+body{
+    background-color:  #e5eaf5;
+    width:100vw;
+    overflow-x: hidden;
+    font-family: "Montserrat",sans-serif;
+}
+>>>>>>> 26240f5 (Added full-stack-blog project)
